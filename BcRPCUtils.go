@@ -1,12 +1,12 @@
 package main
 
 import (
-	"BcRPCCode04/entity"
-	"BcRPCCode04/utils"
 	"bytes"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
+	"manypeoplework/entity"
+	"manypeoplework/utils"
 	"net/http"
 	"time"
 )
