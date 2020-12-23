@@ -1,39 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-
-    <list default="true" id="8ad8fac2-7b88-4825-9593-101fdb87bf1d" name="Default Changelist" comment="">
+    <list default="true" id="bd253e4e-6fcb-4b6f-82a9-6f5fd0b4864a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BcRPCUtils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sericve.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/Bip65.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/RPCGetBlockChainInfo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/RPCRequest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/RPCResult.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/Constants.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/default.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/default.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
-
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-
-  <component name="GOROOT" path="$USER_HOME$/Go" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../我的下载1/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-
   <component name="ProjectId" id="1m0eizk5aYVU1cO9E40qgye0OWM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\专业课软件\go（学习）\src\manypeoplework" />
+      <recent name="C:\Users\Lenovo\Desktop\专业课软件\go（学习）\src\manypeoplework\utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build manypeoplework" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ManyPeopleWork" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="manypeoplework" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build manypeoplework" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="342" key="#GOROOT" timestamp="1608639709229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="342" key="#GOROOT/0.0.1536.824@0.0.1536.824" timestamp="1608639709229" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1608725275677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608725275677" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1608725275677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608725275677" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1608725275677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608725275677" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1608725275677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608725275677" />
   </component>
 </project>
